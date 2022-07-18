@@ -1,6 +1,6 @@
 package com.day10.address;
 
-import com.day10.addressbook.contactPerson.ContactPerson;
+import com.day10.address.contactPerson.ContactPerson;
 
 import java.util.ArrayList;
 import java.util.Scanner;
