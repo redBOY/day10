@@ -1,4 +1,4 @@
-package com.bridgelabz.addressbook;
+package com.day10;
 
 import java.util.Scanner;
 
