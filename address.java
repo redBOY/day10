@@ -1,4 +1,4 @@
-package com.day10;
+package com.day10.address;
 
 import com.day10.addressbook.contactPerson.ContactPerson;;
 
