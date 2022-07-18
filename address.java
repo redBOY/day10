@@ -1,4 +1,4 @@
-package com.day10.addressbook;
+package com.day10.address;
 
 import java.util.ArrayList;
 import java.util.Scanner;
